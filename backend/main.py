@@ -8,6 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 # routers: comment out next line till create them
 from routers import todos
+# from backend.routers import todos
 
 import config
 
