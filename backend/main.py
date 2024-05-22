@@ -20,7 +20,7 @@ app.include_router(todos.router)
 
 origins = [
    "http://localhost:3000",
-   "https://todo-nextjs-list-pvutyplfc-mikael-lucas-projects.vercel.app/",
+   "https://todo-nextjs-list-6c2bs9akc-mikael-lucas-projects.vercel.app/",
 ]
 
 # CORS configuration, needed for frontend development
